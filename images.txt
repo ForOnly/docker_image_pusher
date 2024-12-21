@@ -1,3 +1,1 @@
-openjdk:8-jdk-alpine
-mysql:8.0.39
-redis:6.0.20
+redis:6.2.14
