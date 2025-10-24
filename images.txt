@@ -1,2 +1,2 @@
-node:18-alpine
-nginx:stable-alpine
+openjdk:17
+openjdk:21
