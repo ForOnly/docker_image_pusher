@@ -1,2 +1,1 @@
-openjdk:17
-openjdk:21
+dzikoysk/reposilite:3.5.26
