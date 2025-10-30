@@ -1,1 +1,1 @@
-dzikoysk/reposilite:3.5.26
+neosmemo/memos:stable
