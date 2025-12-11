@@ -1,1 +1,1 @@
-sharevb/it-tools:latest
+qdrant/qdrant:v1
