@@ -1,1 +1,1 @@
-qdrant/qdrant:v1
+ghcr.io/presenton/presenton:latest
