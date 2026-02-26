@@ -1,1 +1,1 @@
-hunyuansandbox/multi-language-sandbox:v2
+coopersoft/canal-adapter:v1.1.6
